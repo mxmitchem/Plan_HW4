@@ -13,7 +13,7 @@ library(dplyr)
 ```
 
 ```{r}
-data = read.csv(here::here("C:\\Users\\myami\\Documents\\Plan372\\HW4\\airport_pairs.csv"))
+data = read.csv(here::here("C:\\Users\\myami\\Documents\\Plan372\\plan372-exercises\\Homework_4\\airport_pairs (1).csv"))
 ```
 
 ```{r}
@@ -71,7 +71,7 @@ library(stringr)
 ```
 
 ```{r}
-data = read.csv(here::here("C:\\Users\\myami\\Documents\\Plan372\\HW4\\airport_pairs.csv"))
+data = read.csv(here::here("C:\\Users\\myami\\Documents\\Plan372\\plan372-exercises\\Homework_4\\airport_pairs (1).csv"))
 ```
 
 ```{r}
